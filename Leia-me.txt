@@ -1,0 +1,3 @@
+Para enfrentar o desafio de processamento de grandes volumes de dados com o arquivo 'vendas_grandes.csv', utilizei o Pandas em conjunto com técnicas como a leitura em chunks para processar os dados de forma eficiente e dentro dos limites de memória. 
+Fiz também algumas análises solicitada, para retornar informações específicas como o produto mais vendido por canal e consumo de memória.
+Além disso, podemos considerar o uso PySpark para manipular o arquivo sem carregar tudo na memória de uma só vez assim ganhando desempenho.
